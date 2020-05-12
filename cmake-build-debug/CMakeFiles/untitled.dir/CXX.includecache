@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jsoto/CLionProjects/untitled/Persona.cpp
+iostream
+-
+Persona.h
+C:/Users/jsoto/CLionProjects/untitled/Persona.h
+cstring
+-
+
+C:/Users/jsoto/CLionProjects/untitled/Persona.h
+
